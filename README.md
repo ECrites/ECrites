@@ -1,5 +1,5 @@
 Hello! I'm Ethan.
-I am a full time student and a game dev in my free time. I am a Co Founder of @Potao-Stamp-Games
+I am a full time student and a game dev in my free time. I am a Co Founder of @Potato-Stamp-Games
 Come Check us out!
 
 <!---
