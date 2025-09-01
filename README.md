@@ -1,6 +1,5 @@
 Hello! I'm Ethan.
-I am a full time student and a game dev in my free time. I am a Co Founder of @Potato-Stamp-Games
-Come Check us out!
+I do fun little projects here usually either in godot or html
 
 <!---
 ECrites/ECrites is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
